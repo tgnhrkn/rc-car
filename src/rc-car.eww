@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspace>
+    <project>
+        <path>$WS_DIR$\car\car.ewp</path>
+    </project>
+    <project>
+        <path>$WS_DIR$\controller\controller.ewp</path>
+    </project>
+    <batchBuild />
+</workspace>

@@ -1,0 +1,27 @@
+# IAR Settings  
+**/settings
+
+# IAR Debug Exe  
+**/Exe/*.sim  
+
+# IAR Debug Obj  
+**/Obj/*.pbd  
+**/Obj/*.pbd.*  
+**/Obj/*.pbi  
+**/Obj/*.pbi.*
+
+**/Debug
+
+# C Ignores
+
+*.o
+*.obj
+*.elf
+
+*.ilk
+*.map
+*.exp
+
+*.d
+*.out
+*.exe
